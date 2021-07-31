@@ -1,0 +1,12 @@
+{
+    "name":"Spotify Medium",
+    "visualStyles":{
+    "*":{
+        "*":{
+            "*":[
+                    {"fontFamily":"Gotham"}
+                ]
+            }
+        }
+    }
+}
